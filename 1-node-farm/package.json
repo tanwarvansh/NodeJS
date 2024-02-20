@@ -4,7 +4,7 @@
   "description": "Learning node.js",
   "main": "index2.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index2.js"
   },
   "repository": {
     "type": "git",
